@@ -2,7 +2,9 @@
 This is a document with examples of java code based on Design 
 
 Plain Old Java Objects - Velhos Objetos Java Plenos
+
 Na verdade são objetos com design simples. Um bean é um tipo de POJO.
+
 Segue um exemplo de um bean:
 
 ```java
